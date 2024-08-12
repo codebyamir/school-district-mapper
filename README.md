@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/LANGUAGE-PYTHON-ebeb00.svg?style=for-the-badge" alt="Python"> <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="MIT License">
+
 # School District Locator
 
 The School District Locator is a Python tool designed to map any given street address in the United States to its corresponding school district. Utilizing the U.S. Census Bureau Geocoding Services API for address geocoding and GeoPandas for spatial analysis with school district shapefiles, this tool provides a quick and accurate lookup for determining the school district of a particular address.
